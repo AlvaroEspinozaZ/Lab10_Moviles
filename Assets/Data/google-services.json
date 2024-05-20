@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "324802381512",
+    "firebase_url": "https://segundointento-7cfc9-default-rtdb.firebaseio.com",
+    "project_id": "segundointento-7cfc9",
+    "storage_bucket": "segundointento-7cfc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324802381512:android:496444e1eb1f594e2987fd",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.Lab10Moviles"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzqlluEEzH7XF7cvsBKkoVezdULOMWIek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
